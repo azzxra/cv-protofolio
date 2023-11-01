@@ -100,7 +100,7 @@ background: palevioletred;
 }
 
 .copyright {
-    color: #6D6D6D;
+    color: #f3baba;
     background: black;
     padding: 20px 0;
 }
@@ -889,10 +889,6 @@ footer {
     border-top: 1px solid #e5e5e5;
     padding: 45px 0;
     background: black;
-}
-
-.social a:hover {
-    color: palevioletred;
 }
 
 .social a {
